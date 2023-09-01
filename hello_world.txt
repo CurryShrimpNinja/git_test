@@ -1,1 +1,2 @@
 Hello GitHub
+Commit config changed to VSC text editor
