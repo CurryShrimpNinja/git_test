@@ -1,2 +1,3 @@
 Hello GitHub
 Commit config changed to VSC text editor
+Git commit test vsc text editor 2
